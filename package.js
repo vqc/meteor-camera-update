@@ -1,5 +1,5 @@
 Package.describe({
-  name: "mikkelking:camera",
+  name: "vqc:camera",
   summary: "Photos with one function call on desktop and mobile.",
   version: "1.1.6",
   git: "https://github.com/mikkelking/camera"
